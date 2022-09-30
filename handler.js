@@ -119,7 +119,7 @@ return buffer
 	 key: { 
           fromMe: false,
 	      participant: `0@s.whatsapp.net`, ...(from ? 
-	 { remoteJid: "6283102650464-1589321480@g.us" } : {}) 
+	 { remoteJid: "6285766454089-1589321480@g.us" } : {}) 
                 },
 	 message: { 
 		"extendedTextMessage": {
@@ -348,12 +348,12 @@ switch(command){
 					btn = [{
                                 urlButton: {
                                     displayText: 'ꜰᴏʟʟᴏᴡ ɪɴꜱᴛᴀɢʀᴀᴍ',
-                                    url: 'https://instagram.com/fdhlgrphy'
+                                    url: 'https://instagram.com/dddyan.__'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'ɢʀᴏᴜᴘ ᴡʜᴀᴛꜱᴀᴘᴘ',
-                                    url: 'https://chat.whatsapp.com/KX1gNmG96RHC2oUlNy3Wdz'
+                                    url: 'https://chat.whatsapp.com/ItlI545J4kDIerQTZ5y0bI'
                                 }
                             }, {
                                 quickReplyButton: {
